@@ -42,6 +42,8 @@ python tugas_akhir.py
 ### Flowchart
 ![Diagram Struktur Data](Tugas_UAS-Muhammad_Rizha_Hardiyanto_IF25B_25416255201029/diagram_strukdat.jpg)
 
+Klik di sini untuk melihat source code: [tugas_akhir.py](Tugas_UAS-Muhammad_Rizha_Hardiyanto_IF25B_25416255201029/tugas_akhir.py)
+
 ### Author
 Muhammad Rizha Hardiyanto IF25B 25416255201029
 Teknik Informatika
