@@ -20,10 +20,10 @@ Aplikasi Manajemen Inventaris Barang adalah program berbasis Python yang digunak
 - Penyimpanan data menggunakan file CSV
 
 ### File Project
-- `tugas_akhir.py` → Program utama
-- `barang.csv` → Data barang
-- `transaksi.csv` → Data transaksi
-- `diagramstrukdat.png` → Flowchart program
+-`tugas_akhir.py` → Program utama
+-`barang.csv` → Data barang
+-`transaksi.csv` → Data transaksi
+-`diagramstrukdat.png` → Flowchart program
 
 ### Cara Menjalankan Program
 1. Pastikan Python telah terinstal.
