@@ -40,7 +40,7 @@ python tugas_akhir.py
 - Stack
 
 ### Flowchart
-![Flowchart Struktur Data](diagram%20strukdat.png)
+![Flowchart Struktur Data](diagram_strukdat.png)
 
 ### Author
 Muhammad Rizha Hardiyanto
