@@ -39,6 +39,9 @@ python tugas_akhir.py
 - Hash Map
 - Stack
 
+### Flowchart
+![flowchart](diagram strukdat.png)
+
 ### Author
 Muhammad Rizha Hardiyanto
 Teknik Informatika
