@@ -43,5 +43,5 @@ python tugas_akhir.py
 ![Diagram Struktur Data](tugas%20akhir%20struktur%20data%20-%20Muhammad%20Rizha%20Hardiyanto_IF25B_25416255201029/diagram_strukdat.jpg)
 
 ### Author
-Muhammad Rizha Hardiyanto
+Muhammad Rizha Hardiyanto IF25B 
 Teknik Informatika
